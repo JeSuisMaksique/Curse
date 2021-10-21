@@ -1,4 +1,4 @@
-update=20.10.2021 18:25:16
+update=21.10.2021 13:48:35
 version=1
 last_client=kicad
 [general]
@@ -246,7 +246,7 @@ PageLayoutDescrFile=gost_landscape.kicad_wks
 PlotDirectoryName=../../SCHEMES/
 SubpartIdSeparator=0
 SubpartFirstId=65
-NetFmtName=
+NetFmtName=Pcbnew
 SpiceAjustPassiveValues=0
 LabSize=79
 ERC_TestSimilarLabels=1
