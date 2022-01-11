@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.7,
-          "width": 1.7
+          "height": 1.55,
+          "width": 1.425
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -113,7 +113,7 @@
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
-        "min_through_hole_diameter": 0.3,
+        "min_through_hole_diameter": 0.19999999999999998,
         "min_track_width": 0.19999999999999998,
         "min_via_annular_width": 0.049999999999999996,
         "min_via_diameter": 0.39999999999999997,
@@ -388,10 +388,10 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "C:/Users/Me/Documents/Curse_PCB.step",
+      "step": "../../3D/Curse_PCB.step",
       "vrml": ""
     },
-    "page_layout_descr_file": ""
+    "page_layout_descr_file": "D:/KiCad_Proj/LIBS/gost_landscape_correct.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
