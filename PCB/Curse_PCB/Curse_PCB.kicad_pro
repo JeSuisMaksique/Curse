@@ -391,7 +391,7 @@
       "step": "../../3D/Curse_PCB.step",
       "vrml": ""
     },
-    "page_layout_descr_file": "D:/KiCad_Proj/LIBS/gost_landscape_correct.kicad_wks"
+    "page_layout_descr_file": "C:/Users/m/Documents/KiCad/6.0/template/pcb_one_list_gost.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
